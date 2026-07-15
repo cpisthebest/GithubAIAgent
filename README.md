@@ -1,4 +1,4 @@
-# Documentation Q&A Agent
+# Github Repo Q&A Agent
 
 > An AI-powered agent that answers questions about GitHub repository documentation using RAG (Retrieval-Augmented Generation)
 ---
